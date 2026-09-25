@@ -10,7 +10,7 @@
    EDIT ME: WhatsApp number that receives orders from the cart.
    Format: country code + number, digits only, no +, no spaces.
 --------------------------------------------------------- */
-const WHATSAPP_ORDER_NUMBER = "5016047398";
+const WHATSAPP_ORDER_NUMBER = "5016664065";
 
 /* ---------------------------------------------------------
    Reusable option groups (dropdowns). "delta" is added to
